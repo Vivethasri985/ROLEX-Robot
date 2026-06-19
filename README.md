@@ -38,3 +38,9 @@ ROLEX is a differential-drive robot that integrates multiple sensors to perceive
 ## System Architecture
 
 Arduino handles sensor interfacing and control logic. Data is transmitted via serial communication to a Raspberry Pi, which logs the data and generates a map.
+
+---
+
+## Team Project Note
+
+This repository contains the final organized version of our academic team project. The project integrates Arduino-based robot control, Raspberry Pi data logging, and Python-based map generation.
